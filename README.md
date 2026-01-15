@@ -6,4 +6,4 @@ ala mic:
 al mare:
 <img width="1243" height="576" alt="image" src="https://github.com/user-attachments/assets/3e995906-82fa-471d-9b66-49569f8e39f7" />
 
-o sa mai editez culorile ca sunt jumbled in dreapta acum
+o sa mai editez culorile din text ca sunt jumbled in dreapta acum
