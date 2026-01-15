@@ -1,4 +1,4 @@
-logo_big e mai high detail da' daca e windowed terminalu se fute, doar schimba-i numele in logo ca sa il folosesti
+logo_big e mai high detail da' daca e terminalu windowed si mic sanse sa se futa, doar schimba-i numele in logo ca sa il folosesti
 
 ala mic:
 
