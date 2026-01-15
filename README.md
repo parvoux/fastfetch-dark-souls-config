@@ -1,9 +1,14 @@
 logo_big e mai high detail da' daca e windowed terminalu se fute, doar schimba-i numele in logo ca sa il folosesti
 
 ala mic:
-<img width="1066" height="517" alt="image" src="https://github.com/user-attachments/assets/d5df21d9-757a-4c69-8a50-80165b4fec35" />
+
+<img width="929" height="408" alt="image" src="https://github.com/user-attachments/assets/7d3086a8-39d3-4413-b999-d14f929b31a8" />
+
 
 al mare:
-<img width="1243" height="576" alt="image" src="https://github.com/user-attachments/assets/3e995906-82fa-471d-9b66-49569f8e39f7" />
+
+
+<img width="1083" height="484" alt="image" src="https://github.com/user-attachments/assets/a7c25ef4-a466-48f4-b51c-400d4d9eb7cd" />
+
 
 o sa mai editez culorile din text ca sunt jumbled in dreapta acum
