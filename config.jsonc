@@ -10,7 +10,7 @@
       "3": "#ff3300"
     },
     "padding": {
-      "top": 0
+      "top": 2
     }
   },
   "modules": [
@@ -65,7 +65,7 @@
   "type": "custom",
   "format": "{#@196}▰▰▰{#@208}▰▰▰{#@214}▰▰▰ CALL BEYOND WORLDS {#@214}▰▰▰{#@208}▰▰▰{#@196}▰▰▰"
 },
-
+"break",
 
     { "type": "localip", "key": "   SOUL TETHER", "keyColor": "#ff3300", "valueColor": "#ffffff",
       "showIpv6": true, "showMac": true, "showSpeed": true},
@@ -78,3 +78,4 @@
 
   ]
 }
+
