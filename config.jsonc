@@ -10,10 +10,9 @@
       "3": "#ff3300"
     },
     "padding": {
-      "top": 2
+      "top": 0
     }
   },
-
   "modules": [
                                                                                                                                                 
 { "type": "custom", "format": "{#@214} _ _    _ ,                                    "},
