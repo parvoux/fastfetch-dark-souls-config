@@ -32,12 +32,12 @@
 },
 "break",                                                                                                                                         
   
-    { "type": "title", "key": "   CHOSEN UNDEAD", "keyColor": "#ffbb33", "valueColor": "#ffffff" },
-    { "type": "os", "key": "   WORLD OF FLAME", "keyColor": "#ff3300", "valueColor": "#ffffff" },
-    { "type": "host", "key": "   VESSEL", "keyColor": "#ff3300", "valueColor": "#ffffff" },
-    { "type": "kernel", "key": "   THREAD OF DESTINY", "keyColor": "#ff3300", "valueColor": "#888888" },
-    { "type": "uptime", "key": "   TIME SINCE LAST BONFIRE", "keyColor": "#ffbb33", "valueColor": "#ffffff" },
-    { "type": "processes", "key": "   DEGREE OF HOLLOWING", "keyColor": "#ffbb33", "valueColor": "#ffffff" },
+    { "type": "title", "key": "   CHOSEN UNDEAD", "keyColor": "#ff7a00", "valueColor": "#ffffff" },
+    { "type": "os", "key": "   WORLD OF FLAME", "keyColor": "#ff7a00", "valueColor": "#ffffff" },
+    { "type": "host", "key": "   VESSEL", "keyColor": "#ff7a00", "valueColor": "#ffffff" },
+    { "type": "kernel", "key": "   THREAD OF DESTINY", "keyColor": "#ff7a00", "valueColor": "#888888" },
+    { "type": "uptime", "key": "   TIME SINCE LAST BONFIRE", "keyColor": "#ff7a00", "valueColor": "#ffffff" },
+    { "type": "processes", "key": "   DEGREE OF HOLLOWING", "keyColor": "#ff7a00", "valueColor": "#ffffff" },
 
     "break",
 {
@@ -46,9 +46,9 @@
 },
 "break",
 
-    { "type": "cpu", "key": "   SOUL OF MIND", "keyColor": "#ff3300", "valueColor": "#ffffff", "showPeCoreCount": true, "temp": true },
-    { "type": "gpu", "key": "   SOUL OF VISION", "keyColor": "#ff3300", "valueColor": "#ffffff", "driverSpecific": true, "temp": true },
-    { "type": "memory", "key": "   ATTUNEMENT", "keyColor": "#ffbb33", "valueColor": "#ffffff" },
+    { "type": "cpu", "key": "   SOUL OF MIND", "keyColor": "#ff7a00", "valueColor": "#ffffff", "showPeCoreCount": true, "temp": true },
+    { "type": "gpu", "key": "   SOUL OF VISION", "keyColor": "#ff7a00", "valueColor": "#ffffff", "driverSpecific": true, "temp": true },
+    { "type": "memory", "key": "   ATTUNEMENT", "keyColor": "#ff7a00", "valueColor": "#ffffff" },
 
     "break",
 {
@@ -57,8 +57,8 @@
 },
 "break",
 
-    { "type": "disk", "key": "   BACKPACK", "keyColor": "#ffbb33", "valueColor": "#ffffff" },
-    { "type": "swap", "key": "   BOTTOMLESS BOX", "keyColor": "#ffbb33", "valueColor": "#ffffff", "separate": true },
+    { "type": "disk", "key": "   BACKPACK", "keyColor": "#ff7a00", "valueColor": "#ffffff" },
+    { "type": "swap", "key": "   BOTTOMLESS BOX", "keyColor": "#ff7a00", "valueColor": "#ffffff", "separate": true },
 
     "break",
 {
@@ -67,15 +67,10 @@
 },
 "break",
 
-    { "type": "localip", "key": "   SOUL TETHER", "keyColor": "#ff3300", "valueColor": "#ffffff",
+    { "type": "localip", "key": "   SOUL TETHER", "keyColor": "#ff7a00", "valueColor": "#ffffff",
       "showIpv6": true, "showMac": true, "showSpeed": true},
-    { "type": "publicip", "key": "   WHITE SIGN SOAPSTONE", "keyColor": "#ff3300", "valueColor": "#ffffff", "timeout": 1000 },
-    { "type": "wifi", "key": "   BOND OF THE BONFIRE", "keyColor": "#ffbb33", "valueColor": "#ffffff" },
-
-    "break",
-
-    { "type": "datetime", "key": "   BONFIRE TIME", "keyColor": "#ffbb33", "valueColor": "#ffffff" },
+    { "type": "wifi", "key": "   BOND OF THE BONFIRE", "keyColor": "#ff7a00", "valueColor": "#ffffff" },
+    { "type": "datetime", "key": "   BONFIRE TIME", "keyColor": "#ff7a00", "valueColor": "#ffffff" },
 
   ]
 }
-
