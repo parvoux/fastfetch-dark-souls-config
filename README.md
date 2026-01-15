@@ -11,4 +11,3 @@ al mare:
 <img width="1083" height="484" alt="image" src="https://github.com/user-attachments/assets/a7c25ef4-a466-48f4-b51c-400d4d9eb7cd" />
 
 
-o sa mai editez culorile din text ca sunt jumbled in dreapta acum
