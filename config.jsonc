@@ -75,10 +75,6 @@
     "break",
 
     { "type": "datetime", "key": "   BONFIRE TIME", "keyColor": "#ffbb33", "valueColor": "#ffffff" },
-    { "type": "version", "key": "   SCRIBE’S INSCRIPTION", "keyColor": "#555555", "valueColor": "#555555" },
 
-    "break",
-
-    "colors"
   ]
 }
